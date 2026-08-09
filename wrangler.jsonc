@@ -9,9 +9,5 @@
   ],
   "observability": {
     "enabled": true
-  },
-  "assets": {
-    "directory": ".",
-    "run_worker_first": true
   }
 }
